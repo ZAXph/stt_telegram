@@ -1,10 +1,10 @@
-IAM_TOKEN = "t1.9euelZqUk5iexo-MlpzPi5aPjcbIle3rnpWamMyalJebnZOKxsyVypOajJTl8_ciHBVP-e8oATh-_d3z92JKEk_57ygBOH79zef1656VmpbNmYuZl8uOkJmVjcecz5zK7_zF656VmpbNmYuZl8uOkJmVjcecz5zKveuelZrGy42Nx4qbkJGSzMnGzMeLyLXehpzRnJCSj4qLmtGLmdKckJKPioua0pKai56bnoue0oye.MdP4Bbv8u99zU__ZjOd9QTdnHgQ9r_EZOMbrRKm7loUPZvvcdspa2ENbe6i0mgxuRrZkz1MdRJgBVauoNOlMCw"
-FOLDER_ID = "b1gn1kghpq4rvsp4e2h1"
+IAM_TOKEN = ""
+FOLDER_ID = ""
 
 MAX_USER_STT_BLOCKS = 10
 MAX_STT_DURATION = 30
 
-TOKEN = "6815594086:AAFmwexlJBjfNt8xinJKVhUz2613ND2opX0"
+TOKEN = ""
 
 DB_NAME = 'data_base.db'
 TABLE_NAME = 'users'
